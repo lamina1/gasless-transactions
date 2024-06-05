@@ -1,0 +1,21 @@
+{
+  "name": "gasless-transactions",
+  "version": "1.0.0",
+  "description": "Gasless Transactions on Lamina1",
+  "main": "index.js",
+  "repository": "https://github.com/lamina1/gasless-transactions",
+  "author": "Bernardo Cardoso",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@ethersproject/bignumber": "^5.7.0",
+    "@types/node": "^20.14.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ethers": "5.7.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
